@@ -1,4 +1,4 @@
-# SMPTE ST 430-2, D-Cinema Operations — Generic Extra-Theater Message Format
+# SMPTE ST 430-2, D-Cinema Operations - Digital Certificate
 
 _This repository is public._ 
 
